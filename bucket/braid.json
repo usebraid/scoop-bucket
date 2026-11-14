@@ -1,0 +1,10 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "64bit": { "url": "https://github.com/usebraid/braid/releases/download/v0.3.0/braid_0.3.0_windows_amd64.zip", "bin": ["braid.exe"], "hash": "2ab958ca539c971ef02bc997a25cdda8d22fc54a473b0ac398c7e6a24b8a6e10" },
+        "arm64": { "url": "https://github.com/usebraid/braid/releases/download/v0.3.0/braid_0.3.0_windows_arm64.zip", "bin": ["braid.exe"], "hash": "c040e6280e4fb7a8e30aa5aa2b5871089ab0a93a7aa9db7a5540e6c84be03e39" }
+    },
+    "homepage": "https://usebraid.dev",
+    "license": "AGPL-3.0-or-later",
+    "description": "Sync Claude Code sessions from all your devices into one Braid server"
+}
