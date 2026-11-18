@@ -1,19 +1,19 @@
 {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/usebraid/braid/releases/download/v0.4.0/braid_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/usebraid/braid/releases/download/v0.5.0/braid_0.5.0_windows_amd64.zip",
             "bin": [
                 "braid.exe"
             ],
-            "hash": "76f32312042a3555aa8beb6888b8d40dad25c22b79ce74d1775f9eaa671520b9"
+            "hash": "a584bfb6f00afb0816161758a51b35b12be7ba0f9dd3e17333c1f6f20b2397b8"
         },
         "arm64": {
-            "url": "https://github.com/usebraid/braid/releases/download/v0.4.0/braid_0.4.0_windows_arm64.zip",
+            "url": "https://github.com/usebraid/braid/releases/download/v0.5.0/braid_0.5.0_windows_arm64.zip",
             "bin": [
                 "braid.exe"
             ],
-            "hash": "d152a2802ccab760104ed6c084abfd4d508f58599982a1087f38497ef92993fa"
+            "hash": "191b89a8bd21e2bf8a0080f93a318d05c5af9632d53a9d4acec7badca33c5d6f"
         }
     },
     "homepage": "https://usebraid.dev",
